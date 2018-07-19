@@ -19,3 +19,5 @@ npm run build
 ```
 npm run lint
 ```
+
+[Left off Here](https://youtu.be/ZSexhaiMKJE?t=575)
