@@ -19,5 +19,5 @@ npm run build
 ```
 npm run lint
 ```
-
-[Left off Here](https://youtu.be/ZSexhaiMKJE?t=575)
+###Going over Vuex Mutations
+[Left off Here](https://youtu.be/ZSexhaiMKJE?t=1200)
